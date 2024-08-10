@@ -6,7 +6,8 @@ Welcome to Destination Delight—a travel website designed to help travelers fin
 
 ## Screenshots
 
-![App Screenshot](file:///C:/Users/sai/Pictures/Capture44.PNG)
+![preview](https://github.com/user-attachments/assets/739b0a26-6a69-4988-b854-1a95add8eb4c)
+
 
 
 ## Features

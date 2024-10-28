@@ -97,6 +97,9 @@ header img{
   border-radius: 20px;
   color: #fff;
 }
+.destination h2:hover{
+  color: gold;
+}
 .destination-grid{
   display: grid;
   grid-template-columns: repeat(3 , 1fr);
@@ -109,6 +112,7 @@ header img{
   border-radius: 80px;
   object-fit: cover;
 } 
+
 .destination-item{
   text-align: left;
 }

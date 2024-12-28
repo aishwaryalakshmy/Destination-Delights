@@ -1,5 +1,5 @@
 
-# Destination DElights
+# Destination Delights
 
 Welcome to Destination Delight—a travel website designed to help travelers find their favorite destinations with ease. This project is built using HTML and CSS, offering a sleek and user-friendly interface to explore various travel spots around the world.
 
